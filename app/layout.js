@@ -1,3 +1,6 @@
+javascript
+import './globals.css'
+
 export const metadata = {
   title: 'DC Load Adder Pro',
   description: 'Telecom Power Budget Calculator',
